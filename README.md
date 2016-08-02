@@ -2,19 +2,20 @@
 
 ## Project Overview
 
-18F is conducting a six week discovery sprint through July and August 2016 to inform the next iteration of 18F Education. 18F Education — part of the 18F Learn business unit — offers education and training to partner agencies and employees throughout the federal government with the goal of increasing the capacities of digital service teams across the federal government. 18F Education currently offers customized training on a case by case basis, but would like to create a standard menu of learning options that government employees can select from. 
+18F is conducting a six week discovery sprint through July and August 2016 to inform the next iteration of 18F Education and DigitalGov University. 18F Education — part of the 18F Learn business unit — offers education and training to partner agencies and employees throughout the federal government with the goal of increasing the capacities of digital service teams across the federal government. 18F Education currently offers customized training on a case by case basis, but would like to create a standard menu of learning options that government employees can select from. 
 
 This discovery sprint seeks to uncover the educational needs — both format and content — of government employees engaged with the digital products. 
 
 ##Why is this important?
 
-We believe that education is a key component of any successful agency transformation – workers need to have both the domain knowledge and soft skills necessary to advocate for and implement best practices. This research will inform the first phases of 18F Education’s standardized offerings so that we can maximize impact out of the gate by better understanding learner’s needs. 
+We believe that education is a key component of any successful agency transformation – workers need to have both the domain knowledge, domain skills, and soft skills necessary to advocate for and implement best practices. This research will inform the first phases of 18F Education’s standardized offerings so that we can maximize impact out of the gate by better understanding learner’s needs. 
 
 ##End results
 
 At the end of the six weeks, we aim to deliver: 
 - Synthesis of our research findings
-- Initial recommendations for course content and format 
+- Initial recommendations for the content and format of new courses
+- Prioritization of recommended course content
 - Recommendations for next steps
 
 ##Key documents
