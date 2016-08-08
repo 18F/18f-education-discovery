@@ -1,4 +1,4 @@
-# 18f Education Discovery
+# 18F Learn/Education Discovery
 
 ## Project Overview
 
