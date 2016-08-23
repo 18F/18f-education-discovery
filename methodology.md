@@ -54,8 +54,10 @@ To guide our research, we identified the following research goals and framing qu
   - Are there educational resources we could offer that could help educators working within agencies into superpowers? 
   - Are there educational resources we could offer that could help turn community organizers working within agencies into superpowers? 
   - Who are the most likely early adopters of 18F Learn’s offerings? 
+
 ####When would education be appropriate? 
   - If different kinds of training are needed to support a transformation, which ones need to happen first, or is there an appropriate order in which they need to happen?
+
 ####What format should education take? 
   - What types of educational resources and programs do government employees currently seek out? 
   - How well are they able to apply those learnings to their jobs? Do some formats work better than others? 
