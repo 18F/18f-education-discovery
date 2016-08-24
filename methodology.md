@@ -46,18 +46,22 @@ To guide our research, we identified the following research goals and framing qu
  - What 21st century skills do government workers need? 
 
 ###2. If it seems education is appropriate … 
-What subject areas would have the most impact? 
+
+**What subject areas would have the most impact?** 
   - What kinds of knowledge or skills do people at different levels of a transformation employ? 
   - What knowledge or skills are they lacking but need?
-Who should be involved in an educational approach? 
+
+**Who should be involved in an educational approach?** 
   - What roles within an organization are likely to be able to have the largest impact for a successful transformation? 
   - Would it be better to take a ‘train the trainers’ approach? We’ve observed that there are many people already within agencies already offering coaching and training on modern best practices to their colleagues. Would it be more effective for 18F to offer training and support so these people can do their jobs better? Instead of teaching a course about HCD, would it be better to teach a course about how to train your colleagues on HCD? 
   - Are there educational resources we could offer that could help educators working within agencies into superpowers? 
   - Are there educational resources we could offer that could help turn community organizers working within agencies into superpowers? 
   - Who are the most likely early adopters of 18F Learn’s offerings? 
-When would education be appropriate? 
+
+**When would education be appropriate?** 
   - If different kinds of training are needed to support a transformation, which ones need to happen first, or is there an appropriate order in which they need to happen?
-What format should education take? 
+
+**What format should education take?** 
   - What types of educational resources and programs do government employees currently seek out? 
   - How well are they able to apply those learnings to their jobs? Do some formats work better than others? 
   - What types of educational resources or programs do government employees request but are denied permission to attend or purchase? 
