@@ -25,8 +25,11 @@ The federal employees we interviewed fell into five different roles, some fittin
 
 - **Educators.** Seven individuals are focused on delivering education and training, either within their agency or government-wide.
 Innovators. 15 people are working to institute new practices, either within their agency or government-wide. Some have sought out training for themselves or their team. 
+
 - **Executives.** Three participants are pushing for new practices and processes inside their agency from an executive position. Some have sought out education and training opportunities for themselves or their teams.
+
 - **Students.** Two people are currently or have recently participated in education or training offered by an agency.
+
 - **Stakeholders.** Five people came from GSA's Technology Transformation Services (comprised of 18F andor Office of Products and Platforms) and have a vested interest in the outcome of the research.
 
 ##Framing questions
