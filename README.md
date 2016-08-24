@@ -23,11 +23,11 @@ At the end of the six weeks, we aim to deliver:
 [Project wiki](https://github.com/18F/18f-education-discovery/wiki)
 
 ##Team members
-Victor Udoewa – Product owner
-Jeremy Zilar — Engagement manager
-Carolyn Dew — Research lead
-Lane Becker — Researcher and strategist
-Jen Ehlers – Researcher
+- Victor Udoewa – Product owner
+- Jeremy Zilar — Engagement manager
+- Carolyn Dew — Research lead
+- Lane Becker — Researcher and strategist
+- Jen Ehlers – Researcher
 
 ##License information
 
