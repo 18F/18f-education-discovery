@@ -24,7 +24,8 @@ Timing. When is education effective? At what part (or parts) of a transformation
 The federal employees we interviewed fell into five different roles, some fitting into more than one role: 
 
 - **Educators.** Seven individuals are focused on delivering education and training, either within their agency or government-wide.
-Innovators. 15 people are working to institute new practices, either within their agency or government-wide. Some have sought out training for themselves or their team. 
+
+- **Innovators.** 15 people working to institute new practices, either within their agency or government-wide. Some have sought out training for themselves or their team. 
 
 - **Executives.** Three participants are pushing for new practices and processes inside their agency from an executive position. Some have sought out education and training opportunities for themselves or their teams.
 
