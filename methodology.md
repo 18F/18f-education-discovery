@@ -41,6 +41,7 @@ To guide our research, we identified the following research goals and framing qu
  -  Which learning needs are already satisfied by resources offered elsewhere? 
  - What other types of interventions should education be paired with? 
  - What 21st century skills do government workers need? 
+
 ###2. If it seems education is appropriate … 
 What subject areas would have the most impact? 
   - What kinds of knowledge or skills do people at different levels of a transformation employ? 
