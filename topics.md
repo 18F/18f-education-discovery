@@ -18,7 +18,7 @@ Many teams are trying to move their agencies from a waterfall process to an agil
 
 Interestingly, through these discussions, some participants used the term “agile” as a bucket term for the introduction of a range of modern practices, including human-centered design and iterative development as well as agile methodologies. **Because of this, there is an opportunity for TTS Education to use experiential, project-based, or embedded “agile training” as a core offering for partner agencies.**
 
-<blockquote>“I can tell you about agile all day long, but if you haven’t run sprints and been involved, you don’t know what’s involved.”</blockquote>
+_“I can tell you about agile all day long, but if you haven’t run sprints and been involved, you don’t know what’s involved.”_
 
 ###Enable people to use design processes to create great services. 
 
@@ -42,14 +42,14 @@ We found that people newly assigned to product manager roles are reluctant to as
 
 Often, leadership sees agile processes, human centered design, and other techniques as riskier than the status quo, usually because they are unfamiliar. A better understanding of how these processes help mitigate risk may be helpful in growing leadership support of these efforts.
 
-<blockquote>“Because HCD and agile seem crazy until you know that they work. Everything in government is about adding more and more restrictions and bureaucracy because they’re trying to legislate away the risk. Which we all know is not how you mitigate risk. But a human reaction to something being risky. So blowing all of that out of the water to do something better seems crazy.”</blockquote>
+_“Because HCD and agile seem crazy until you know that they work. Everything in government is about adding more and more restrictions and bureaucracy because they’re trying to legislate away the risk. Which we all know is not how you mitigate risk. But a human reaction to something being risky. So blowing all of that out of the water to do something better seems crazy.”_
 
 ###How to determine program value and priorities.
 
 Leadership can unintentionally stymie transformation efforts by not prioritizing work and not measuring value. The lack of prioritization means that staff are overworked and pulled in too many directions. 
 Understanding why and when to do something is important to getting the right things done in the right amount of time. **There are many strategies to prioritize work and determine the value of a product that can be taught to help those in leadership properly scope and manage a project team.**
 
-<blockquote>“Organizations are bad at prioritizing things and reducing workload. New things just get added to your list, they don’t shuffle. ‘You’re working on 10 things? Here’s the 11th.’”</blockquote>
+_“Organizations are bad at prioritizing things and reducing workload. New things just get added to your list, they don’t shuffle. ‘You’re working on 10 things? Here’s the 11th.’”_
 
 ##Key areas where education can support ‘adjacent audiences.’
 
