@@ -20,7 +20,7 @@ The private sector has long felt the pressure to adopt these practices, but fede
 
 Previous research into digital transformation has focused broadly on how digital transformation practices are introduced and embedded inside government agencies. From this work, we have surmised that a lack of knowledge and skills is a barrier to adopting modern digital practices, and therefore appropriate educational training may have a role in digital transformation. 
 
-See — Best practices in government digital transformation https://github.com/18F/transformation-research/blob/master/preliminary-report.md
+See — **_[Best practices in government digital transformation](https://github.com/18F/transformation-research/blob/master/preliminary-report.md)_** 
 
 ## How to interpret this research
 
@@ -30,4 +30,4 @@ Innovation and education within the federal government is a broad and complex su
 
 This research is qualitative in nature. Its goal is to develop a deep understanding of the people within a specific group and their thoughts, beliefs, and goals, as well as how these influence their behavior. It doesn’t tell us about the frequency of observations within the population—we can’t say what percentage of people feel a certain way, or if one observation occurs more frequently than another. 
 
-You can learn more about our research in the methodology supplement.
+You can learn more about our research in the [methodology supplement](TBD).
