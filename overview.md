@@ -30,4 +30,4 @@ Innovation and education within the federal government is a broad and complex su
 
 This research is qualitative in nature. Its goal is to develop a deep understanding of the people within a specific group and their thoughts, beliefs, and goals, as well as how these influence their behavior. It doesn’t tell us about the frequency of observations within the population—we can’t say what percentage of people feel a certain way, or if one observation occurs more frequently than another. 
 
-You can learn more about our research in the [methodology supplement](TBD).
+You can learn more about our research in the [methodology supplement](https://github.com/18F/18f-education-discovery/blob/master/methodology.md).
