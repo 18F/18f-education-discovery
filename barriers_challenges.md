@@ -18,7 +18,7 @@ We sought to dig deeper into this list to find out what barriers education may b
 
 Many participants spoke of  a general unwillingness by product managers to assume decision-making authority for the product, even when given explicit authority from leadership to do so. **Education around this role may help overcome some of this hesitancy.**
 
-_“As we are getting people to take on this product owner role, it’s started a bunch of hesitation and uncertainty among staff. First thing I say is, ‘you're responsible for this — running a team of contractors to work on this.’ A lot of people haven’t had that experience, that leadership experience. […] We had to do a lot of customized training and a lot of people still came out of it not feeling they can transition in the role of leading people, leading an agile project, being comfortable not having things further out, not having a delivery date — doesn’t have to be set until after you get some work going.” _
+_“As we are getting people to take on this product owner role, it’s started a bunch of hesitation and uncertainty among staff. First thing I say is, ‘you're responsible for this — running a team of contractors to work on this.’ A lot of people haven’t had that experience, that leadership experience. […] We had to do a lot of customized training and a lot of people still came out of it not feeling they can transition in the role of leading people, leading an agile project, being comfortable not having things further out, not having a delivery date — doesn’t have to be set until after you get some work going.”_
 
 This seems to be a corollary to the third barrier identified by the transformation research report. 
 
