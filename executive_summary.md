@@ -37,7 +37,7 @@ We recommend that in the next several months, TTS Education should –
 
 ###### Navigating this document
 
-- **Executive summary** < You are here!
+- **Executive summary** < _You are here!_
 - **[Overview](https://github.com/18F/18f-education-discovery/blob/master/overview.md)**
 - **[What we found](https://github.com/18F/18f-education-discovery/blob/master/what_we_found.md)**
   - [Effective government education considers context, people, and format.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md)
