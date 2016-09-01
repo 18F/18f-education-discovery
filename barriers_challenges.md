@@ -8,7 +8,7 @@ The transformation research report identified the four top barriers to digital t
 >
 > - **Teams that can’t make project decisions without leadership approval.** This costs time and effort for both management and staff, and makes it hard for transformative practices to become the norm.
 >
-> - **Failure to connect directly to users** (whether they’re employees or the public). It’s harder to muster the will to seek out the most impactful practices when you don’t have a picture of the impacted people in your mind._
+> - **Failure to connect directly to users** (whether they’re employees or the public). It’s harder to muster the will to seek out the most impactful practices when you don’t have a picture of the impacted people in your mind.
 
 We sought to dig deeper into this list to find out what barriers education may be able to help alleviate, and barriers where other interventions might be more effective. Some of our findings corroborate those listed above, and some are specific to education. We believe some form of education (formal or informal) is probably an ingredient to overcoming any barrier, but in some cases education must be paired with other efforts or another kind of effort may be more effective.
 
