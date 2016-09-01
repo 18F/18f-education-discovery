@@ -121,3 +121,17 @@ There is no shortage of education and training offerings inside the government, 
 - [Create a strategy around using free content as a lead-in for paid content.](https://github.com/18F/18f-education-discovery/blob/master/three_months.md#create-a-strategy-around-using-free-content-as-a-lead-in-for-paid-content)
 
 - [Set up a framework for continuous feedback of learner needs.](https://github.com/18F/18f-education-discovery/blob/master/three_months.md#set-up-a-framework-for-continuous-feedback-of-learner-needs)
+
+* * *
+
+###### Navigating this document
+
+- **[Executive summary](https://github.com/18F/18f-education-discovery/blob/master/executive_summary.md)** 
+- **[Overview](https://github.com/18F/18f-education-discovery/blob/master/overview.md)** 
+- **What we found** < _You are here!_
+  - [Effective government education considers context, people, and format.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md)
+  - [Educational topics that we heard are needed the most.](https://github.com/18F/18f-education-discovery/blob/master/topics.md)
+  - [Barriers and challenges to digital transformation.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md)
+  - [What makes education stick?](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md)
+- **[What would we like to do if we had three more months?](https://github.com/18F/18f-education-discovery/blob/master/three_months.md)**
+- **[Methodology supplement](https://github.com/18F/18f-education-discovery/blob/master/methodology.md)**
