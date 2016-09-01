@@ -77,6 +77,7 @@ To guide our research, we identified the following research goals and framing qu
 
 ###### Navigating this document
 
+- **[Project Home](https://github.com/18F/18f-education-discovery/blob/master/README.md)**
 - **[Executive summary](https://github.com/18F/18f-education-discovery/blob/master/executive_summary.md)** 
 - **[Overview](https://github.com/18F/18f-education-discovery/blob/master/overview.md)**
 - **[What we found](https://github.com/18F/18f-education-discovery/blob/master/what_we_found.md)**
