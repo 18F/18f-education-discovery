@@ -31,3 +31,17 @@ Innovation and education within the federal government is a broad and complex su
 This research is qualitative in nature. Its goal is to develop a deep understanding of the people within a specific group and their thoughts, beliefs, and goals, as well as how these influence their behavior. It doesn’t tell us about the frequency of observations within the population—we can’t say what percentage of people feel a certain way, or if one observation occurs more frequently than another. 
 
 You can learn more about our research in the [methodology supplement](https://github.com/18F/18f-education-discovery/blob/master/methodology.md).
+
+* * *
+
+###### Navigating this document
+
+- **[Executive summary](https://github.com/18F/18f-education-discovery/blob/master/executive_summary.md)** 
+- **Overview** < _You are here!_
+- **[What we found](https://github.com/18F/18f-education-discovery/blob/master/what_we_found.md)**
+  - [Effective government education considers context, people, and format.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md)
+  - [Educational topics that we heard are needed the most.](https://github.com/18F/18f-education-discovery/blob/master/topics.md)
+  - [Barriers and challenges to digital transformation.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md)
+  - [What makes education stick?](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md)
+- **[What would we like to do if we had three more months?](https://github.com/18F/18f-education-discovery/blob/master/three_months.md)**
+- **[Methodology supplement](https://github.com/18F/18f-education-discovery/blob/master/methodology.md)**
