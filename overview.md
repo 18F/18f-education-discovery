@@ -1,4 +1,4 @@
-# 18F Learn/Education Discovery — Overview
+# Overview — 18F Learn/Education Discovery Research
 
 18F conducted a six-week discovery sprint through July and August 2016 to inform the future of education offered by General Services Administration’s Technology Transformation Services (TTS).
 
