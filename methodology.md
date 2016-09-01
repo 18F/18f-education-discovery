@@ -2,7 +2,7 @@
 
 ##Process
 
-We conducted 18 one-hour interviews with 21 federal employees from various agencies over the course of six weeks. Most participants met with us individually, but in the cases where people worked as a team we interviewed two at the same time. The interviews were loosely structured conversations based on a set of prompts we identified beforehand.
+We conducted 18 one-hour interviews with 21 federal employees from various agencies over the course of six weeks. Most participants met with us individually, but in the cases where people worked as a team we interviewed two at the same time. The interviews were loosely structured conversations based on [a set of prompts](https://github.com/18F/18f-education-discovery/blob/master/conversation-guide.md) we identified beforehand.
 
 We began our process by talking to people leading education initiatives within the federal government to get a better understanding of the broad landscape. From there we began to talk to those who are leading innovation efforts within agencies to understand the challenges they and their staff face in adopting new techniques. We asked both educators and innovators for contact information for learners in their programs or on their staff. 
 
