@@ -38,13 +38,20 @@ There is no shortage of education and training offerings inside the government, 
 
 - [Make content reusable and accessible.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md#make-content-reusable-and-accessible)
 
-Educational topics that we heard are needed the most.
-Key areas where education can support product teams.
-Define the product owner role in order to empower product owners to make decisions.
-Teach people how to advocate for their work to leadership, legal counsel, and other groups.
-Impart a deep understanding of the agile mindset, not just the practices.
-Enable people to use design processes to create great services.
-Key areas where education can support leadership.
+### [Educational topics that we heard are needed the most.](https://github.com/18F/18f-education-discovery/blob/master/topics.md#educational-topics-that-we-heard-are-needed-the-most)
+
+**[Key areas where education can support product teams.](https://github.com/18F/18f-education-discovery/blob/master/topics.md#key-areas-where-education-can-support-product-teams)**
+
+- [Define the product owner role in order to empower product owners to make decisions.](https://github.com/18F/18f-education-discovery/blob/master/topics.md#define-the-product-owner-role-in-order-to-empower-product-owners-to-make-decisions)
+
+- [Teach people how to advocate for their work to leadership, legal counsel, and other groups.] (https://github.com/18F/18f-education-discovery/blob/master/topics.md#teach-people-how-to-advocate-for-their-work-to-leadership-legal-counsel-and-other-groups)
+
+- [Impart a deep understanding of the agile mindset, not just the practices.](https://github.com/18F/18f-education-discovery/blob/master/topics.md#impart-a-deep-understanding-of-the-agile-mindset-not-just-the-practices)
+
+- [Enable people to use design processes to create great services.](https://github.com/18F/18f-education-discovery/blob/master/topics.md#enable-people-to-use-design-processes-to-create-great-services)
+
+**[Key areas where education can support leadership.](https://github.com/18F/18f-education-discovery/blob/master/topics.md#key-areas-where-education-can-support-leadership)**
+
 How to build and empower agile teams.
 Show how new processes can help mitigate risk.
 How to determine program value and priorities.
