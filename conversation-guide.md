@@ -100,3 +100,18 @@ Do you have any questions? Or are there any
 topics we covered that you’d like to discuss in more detail?
 
 Excellent! Have a great day.
+
+* * *
+
+###### Navigating this document
+
+- **[Project Home](https://github.com/18F/18f-education-discovery/blob/master/README.md)**
+- **[Executive summary](https://github.com/18F/18f-education-discovery/blob/master/executive_summary.md)** 
+- **[Overview](https://github.com/18F/18f-education-discovery/blob/master/overview.md)**
+- **[What we found](https://github.com/18F/18f-education-discovery/blob/master/what_we_found.md)**
+  - [Effective government education considers context, people, and format.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md) 
+  - [Educational topics that we heard are needed the most.](https://github.com/18F/18f-education-discovery/blob/master/topics.md) 
+  - [Barriers and challenges to digital transformation.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md) 
+  - [What makes education stick?](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md) 
+- **[What would we like to do if we had three more months?](https://github.com/18F/18f-education-discovery/blob/master/three_months.md)**
+- **[Methodology supplement](https://github.com/18F/18f-education-discovery/edit/master/methodology.md)** 
