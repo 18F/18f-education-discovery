@@ -1,4 +1,4 @@
-# 18F Learn/Education Discovery — What makes education stick
+# What makes education stick
 
 ##What makes education stick
 
