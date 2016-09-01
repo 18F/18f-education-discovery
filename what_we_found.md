@@ -102,9 +102,14 @@ There is no shortage of education and training offerings inside the government, 
 
 - [Hiring people experienced with new methods improves the speed of implementation.](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md#hiring-people-experienced-with-new-methods-improves-the-speed-of-implementation)
 
-### [What would we like to do if we had three more months?]()
-Conduct more focused experimentation on identifying the top priorities for TTS Education.
-Design engagements that focus on embedding new methodologies into agencies for the long run.
-Explore digitalgov.gov as a way for people to self-identify their educational needs.
-Create a strategy around using free content as a lead-in for paid content.
-Set up a framework for continuous feedback of learner needs.
+### [What would we like to do if we had three more months?](https://github.com/18F/18f-education-discovery/blob/master/three_months.md#what-would-we-like-to-do-if-we-had-three-more-months)
+
+- [Conduct more focused experimentation on identifying the top priorities for TTS Education.](https://github.com/18F/18f-education-discovery/blob/master/three_months.md#conduct-more-focused-experimentation-on-identifying-the-top-priorities-for-tts-education)
+
+- [Design engagements that focus on embedding new methodologies into agencies for the long run.](https://github.com/18F/18f-education-discovery/blob/master/three_months.md#design-engagements-that-focus-on-embedding-new-methodologies-into-agencies-for-the-long-run)
+
+- [Explore digitalgov.gov as a way for people to self-identify their educational needs.](https://github.com/18F/18f-education-discovery/blob/master/three_months.md#explore-digitalgovgov-as-a-way-for-people-to-self-identify-their-educational-needs)
+
+- [Create a strategy around using free content as a lead-in for paid content.](https://github.com/18F/18f-education-discovery/blob/master/three_months.md#create-a-strategy-around-using-free-content-as-a-lead-in-for-paid-content)
+
+- [Set up a framework for continuous feedback of learner needs.](https://github.com/18F/18f-education-discovery/blob/master/three_months.md#set-up-a-framework-for-continuous-feedback-of-learner-needs)
