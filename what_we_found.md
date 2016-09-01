@@ -52,23 +52,39 @@ There is no shortage of education and training offerings inside the government, 
 
 **[Key areas where education can support leadership.](https://github.com/18F/18f-education-discovery/blob/master/topics.md#key-areas-where-education-can-support-leadership)**
 
-How to build and empower agile teams.
-Show how new processes can help mitigate risk.
-How to determine program value and priorities.
-Key areas where education can support ‘adjacent audiences.’
-Barriers and challenges to digital transformation.
-Areas where education can help.
-People newly assigned to product manager roles are reluctant to assume decision-making authority.
-Employees lack knowledge of best practices or only have a shallow understanding of them.
-Much of training and educational resources available to government employees contains bad or outdated information.
-Education may help with these problems, but there may be other approaches that work better.
-Leadership gives lip service to innovation without creating space for it.
-The organizational culture resists change.
-Hiring experts can be difficult and time consuming.
-Organizational structure and operations can cause roadblocks for new methods.
-Laws and legal interpretations can block implementation of new methods.
-Teams are unable to use the tools they need.
-What makes education stick
+- [How to build and empower agile teams.](https://github.com/18F/18f-education-discovery/blob/master/topics.md#how-to-build-and-empower-agile-teams)
+
+- [Show how new processes can help mitigate risk.](https://github.com/18F/18f-education-discovery/blob/master/topics.md#show-how-new-processes-can-help-mitigate-risk)
+
+- [How to determine program value and priorities.](https://github.com/18F/18f-education-discovery/blob/master/topics.md#how-to-determine-program-value-and-priorities)
+
+**[Key areas where education can support ‘adjacent audiences.’](https://github.com/18F/18f-education-discovery/blob/master/topics.md#key-areas-where-education-can-support-adjacent-audiences)**
+
+### [Barriers and challenges to digital transformation.]()
+
+**[Areas where education can help.]()**
+
+- People newly assigned to product manager roles are reluctant to assume decision-making authority.
+
+- Employees lack knowledge of best practices or only have a shallow understanding of them.
+
+- Much of training and educational resources available to government employees contains bad or outdated information.
+
+**[Education may help with these problems, but there may be other approaches that work better.]()**
+
+- Leadership gives lip service to innovation without creating space for it.
+
+- The organizational culture resists change.
+
+- Hiring experts can be difficult and time consuming.
+
+- Organizational structure and operations can cause roadblocks for new methods.
+
+- Laws and legal interpretations can block implementation of new methods.
+
+- Teams are unable to use the tools they need.
+
+### What makes education stick
 Ongoing public support from leadership backs up efforts on the ground.
 The ability to start small.
 Collaborative environments help people get comfortable with new approaches.
