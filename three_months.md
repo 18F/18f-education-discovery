@@ -32,7 +32,7 @@ Several of the innovators and educators we spoke with mentioned that they though
 
 Given the discussion about reworking digitalgov.gov, and its history as a focal point for people interested in digital services inside government, **TTS Education should explore what it would mean to remake digitalgov.gov in this way.**
 
-_“What I wish we as government did a much better job at is creating a more effective decisional framework at the front-end of the process, so that you could match a given problem to a subset of potentially effective tools. Does that make sense? Early-stage coaching. In general, if we did a much better job of that, that would be huge, and that would help me, because then I would get people who have vetted the idea of running a challenge more, and we could just get straight into it.”_
+> _“What I wish we as government did a much better job at is creating a more effective decisional framework at the front-end of the process, so that you could match a given problem to a subset of potentially effective tools. Does that make sense? Early-stage coaching. In general, if we did a much better job of that, that would be huge, and that would help me, because then I would get people who have vetted the idea of running a challenge more, and we could just get straight into it.”_
 
 This approach dovetails with the follow-up work pitched as part of the original digital transformation research. This is an opportunity to bring the threads from these different projects together in a way that significantly strengthens TTS’s presence in the federal marketplace while also providing a powerful tool for people and agencies looking to change.
 
