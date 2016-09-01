@@ -19,8 +19,24 @@ At the end of the six weeks, we aim to deliver:
 - Recommendations for next steps
 
 ##Key documents
+### Final report
+**TTS Education Discovery Research**
 
+_Opportunities and challenges for education as part of digital transformation_
+
+- **[Executive summary](https://github.com/18F/18f-education-discovery/blob/master/executive_summary.md)** 
+- **[Overview](https://github.com/18F/18f-education-discovery/blob/master/overview.md)**
+- **[What we found](https://github.com/18F/18f-education-discovery/blob/master/what_we_found.md)**
+  - [Effective government education considers context, people, and format.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md) 
+  - [Educational topics that we heard are needed the most.](https://github.com/18F/18f-education-discovery/blob/master/topics.md) 
+  - [Barriers and challenges to digital transformation.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md) 
+  - [What makes education stick?](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md) 
+- **[What would we like to do if we had three more months?](https://github.com/18F/18f-education-discovery/blob/master/three_months.md)**
+- **[Methodology supplement](https://github.com/18F/18f-education-discovery/blob/master/methodology.md)**
+
+### Process docs
 [Project wiki](https://github.com/18F/18f-education-discovery/wiki)
+[Conversation guides](https://github.com/18F/18f-education-discovery/blob/master/conversation-guide.md)
 
 ##Team members
 - Victor Udoewa – Product owner
