@@ -1,4 +1,4 @@
-# 18F Learn/Education Discovery – Methodology 
+# Methodology 
 
 ##Process
 
