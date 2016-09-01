@@ -6,8 +6,11 @@ Our research identified multiple ways effective education plays an essential rol
 
 Our interviewees identified four key characteristics of effective education – 
 - **Education should explicitly address common challenges faced while using new methods in government.** Private sector training fails to address the most common barriers to applying best practices within government. 
+
 - **Effective education bases coursework on actual projects.** One of the biggest challenges of any education program is tying the concepts back to real-world scenarios. Working on real projects in the classroom is the most direct way to address this gap. 
+
 - **Education should involve not only the right people, but the right configuration of people.** When creating integrated services and digital projects is a team sport, training only one person on the team is less likely to be effective.
+
 - **Tailor the content to where an agency is in the process of transformation.** Agencies at different points along the path of digital transformation have different educational needs — effective education accounts for this. 
 
 Additionally, we identified (or validated) several content areas where there seems to be great demand —
@@ -29,3 +32,17 @@ We recommend that in the next several months, TTS Education should –
 - Explore [digitalgov.gov](https://www.digitalgov.gov/) as a way for people to self-identify their educational needs. 
 - Create a strategy around using free content as a lead-in for paid content. 
 - Set up a framework for continuous feedback of learner needs. 
+
+* * *
+
+###### Navigating this document
+
+- **Executive summary** < You are here!
+- [Overview](https://github.com/18F/18f-education-discovery/blob/master/overview.md)
+- [What we found](https://github.com/18F/18f-education-discovery/blob/master/what_we_found.md)
+  - [Effective government education considers context, people, and format.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md)
+  - [Educational topics that we heard are needed the most.](https://github.com/18F/18f-education-discovery/blob/master/topics.md)
+  - [Barriers and challenges to digital transformation.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md)
+  - [What makes education stick?](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md)
+- [What would we like to do if we had three more months?](https://github.com/18F/18f-education-discovery/blob/master/three_months.md)
+- [Methodology supplement](https://github.com/18F/18f-education-discovery/blob/master/methodology.md)
