@@ -19,8 +19,7 @@ At the end of the six weeks, we aim to deliver:
 - Recommendations for next steps
 
 ##Key documents
-### Final report
-**TTS Education Discovery Research**
+### TTS Education Discovery Research
 
 _Opportunities and challenges for education as part of digital transformation_
 
@@ -35,8 +34,8 @@ _Opportunities and challenges for education as part of digital transformation_
 - **[Methodology supplement](https://github.com/18F/18f-education-discovery/blob/master/methodology.md)**
 
 ### Process docs
-[Project wiki](https://github.com/18F/18f-education-discovery/wiki)
-[Conversation guides](https://github.com/18F/18f-education-discovery/blob/master/conversation-guide.md)
+- [Project wiki](https://github.com/18F/18f-education-discovery/wiki)
+- [Conversation guides](https://github.com/18F/18f-education-discovery/blob/master/conversation-guide.md)
 
 ##Team members
 - Victor Udoewa – Product owner
