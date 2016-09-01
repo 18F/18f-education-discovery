@@ -38,6 +38,8 @@ There is no shortage of education and training offerings inside the government, 
 
 - [Make content reusable and accessible.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md#make-content-reusable-and-accessible)
 
+* * *
+
 ### [Educational topics that we heard are needed the most.](https://github.com/18F/18f-education-discovery/blob/master/topics.md#educational-topics-that-we-heard-are-needed-the-most)
 
 **[Key areas where education can support product teams.](https://github.com/18F/18f-education-discovery/blob/master/topics.md#key-areas-where-education-can-support-product-teams)**
@@ -59,6 +61,8 @@ There is no shortage of education and training offerings inside the government, 
 - [How to determine program value and priorities.](https://github.com/18F/18f-education-discovery/blob/master/topics.md#how-to-determine-program-value-and-priorities)
 
 **[Key areas where education can support ‘adjacent audiences.’](https://github.com/18F/18f-education-discovery/blob/master/topics.md#key-areas-where-education-can-support-adjacent-audiences)**
+
+* * *
 
 ### [Barriers and challenges to digital transformation.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md#barriers-and-challenges-to-digital-transformation)
 
@@ -84,6 +88,8 @@ There is no shortage of education and training offerings inside the government, 
 
 - [Teams are unable to use the tools they need.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md#teams-are-unable-to-use-the-tools-they-need)
 
+* * *
+
 ### [What makes education stick](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md#what-makes-education-stick)
 
 - [Ongoing public support from leadership backs up efforts on the ground.](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md#ongoing-public-support-from-leadership-backs-up-efforts-on-the-ground)
@@ -101,6 +107,8 @@ There is no shortage of education and training offerings inside the government, 
 - [Embedded coaches are effective for assuring implementation of new methods.](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md#embedded-coaches-are-effective-for-assuring-implementation-of-new-methods)
 
 - [Hiring people experienced with new methods improves the speed of implementation.](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md#hiring-people-experienced-with-new-methods-improves-the-speed-of-implementation)
+
+* * *
 
 ### [What would we like to do if we had three more months?](https://github.com/18F/18f-education-discovery/blob/master/three_months.md#what-would-we-like-to-do-if-we-had-three-more-months)
 
