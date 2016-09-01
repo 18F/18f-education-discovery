@@ -1,4 +1,4 @@
-# 18F Learn/Education Discovery — Effective government education considers context, people, and format.
+# Effective government education considers context, people, and format.
 
 Generally, digital education programs in the government can support transformation if:
 
