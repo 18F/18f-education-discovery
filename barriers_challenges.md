@@ -1,4 +1,4 @@
-# 18F Learn/Education Discovery — Barriers and challenges to digital transformation.
+# Barriers and challenges to digital transformation.
 
 The transformation research report identified the four top barriers to digital transformation: 
 
