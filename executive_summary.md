@@ -1,4 +1,4 @@
-# 18F Learn/Education Discovery – Executive Summary
+# Executive Summary
 
 Across government, employees are being asked to use technology to solve complex problems and deliver better services across a rapidly changing digital environment. Much of what this large-scale transition requires is a more agile and adaptable way of working. 
 
