@@ -114,4 +114,4 @@ Excellent! Have a great day.
   - [Barriers and challenges to digital transformation.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md) 
   - [What makes education stick?](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md) 
 - **[What would we like to do if we had three more months?](https://github.com/18F/18f-education-discovery/blob/master/three_months.md)**
-- **[Methodology supplement](https://github.com/18F/18f-education-discovery/edit/master/methodology.md)** 
+- **[Methodology supplement](https://github.com/18F/18f-education-discovery/blob/master/methodology.md)** 
