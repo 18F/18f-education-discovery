@@ -84,16 +84,25 @@ There is no shortage of education and training offerings inside the government, 
 
 - [Teams are unable to use the tools they need.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md#teams-are-unable-to-use-the-tools-they-need)
 
-### [What makes education stick]()
-Ongoing public support from leadership backs up efforts on the ground.
-The ability to start small.
-Collaborative environments help people get comfortable with new approaches.
-Community organizers can influence other parts of the agency.
-Communities of practice are a useful extension for what’s learned in the classroom.
-Mentorship can provide ongoing reinforcement for best practices.
-Embedded coaches are effective for assuring implementation of new methods.
-Hiring people experienced with new methods improves the speed of implementation.
-What would we like to do if we had three more months?
+### [What makes education stick](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md#what-makes-education-stick)
+
+- [Ongoing public support from leadership backs up efforts on the ground.](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md#ongoing-public-support-from-leadership-backs-up-efforts-on-the-ground)
+
+- [The ability to start small.](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md#the-ability-to-start-small)
+
+- [Collaborative environments help people get comfortable with new approaches.](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md#collaborative-environments-help-people-get-comfortable-with-new-approaches)
+
+- [Community organizers can influence other parts of the agency.](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md#community-organizers-can-influence-other-parts-of-the-agency)
+
+- [Communities of practice are a useful extension for what’s learned in the classroom.](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md#communities-of-practice-are-a-useful-extension-for-whats-learned-in-the-classroom)
+
+- [Mentorship can provide ongoing reinforcement for best practices.](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md#mentorship-can-provide-ongoing-reinforcement-for-best-practices)
+
+- [Embedded coaches are effective for assuring implementation of new methods.](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md#embedded-coaches-are-effective-for-assuring-implementation-of-new-methods)
+
+- [Hiring people experienced with new methods improves the speed of implementation.](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md#hiring-people-experienced-with-new-methods-improves-the-speed-of-implementation)
+
+### [What would we like to do if we had three more months?]()
 Conduct more focused experimentation on identifying the top priorities for TTS Education.
 Design engagements that focus on embedding new methodologies into agencies for the long run.
 Explore digitalgov.gov as a way for people to self-identify their educational needs.
