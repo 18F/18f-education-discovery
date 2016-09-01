@@ -1,4 +1,4 @@
-# 18F Learn/Education Discovery — What would we like to do if we had three more months?
+# What would we like to do if we had three more months?
 
 In its first four months, 18F Education, has developed customized trainings for a number of agency partners, which cover topics such as agile, Github, and how to better integrate emerging technologies and research into daily practices. Many of these themes, along with the work happening in DigitalGov University and DigitalGov.gov, align with the government-wide needs identified above. 
 
