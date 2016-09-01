@@ -78,3 +78,18 @@ Working within and interpreting laws and policies is a daily part of federal gov
 Constraints built into agency security and technology policies cause issues for projects trying to use test environments, production systems, design software, and so on. Many agencies also have limited resources to be able to provide teams with the tools they need. Training in devops and security may help in this regard, but there may be more effective strategies to address this problem.
 
 This corroborates the barrier of ‘extreme technical debt’ identified in the transformation research report. 
+
+* * *
+
+###### Navigating this document
+
+- **[Executive summary](https://github.com/18F/18f-education-discovery/blob/master/executive_summary.md)** 
+- **[Overview](https://github.com/18F/18f-education-discovery/blob/master/overview.md)**
+- **[What we found](https://github.com/18F/18f-education-discovery/blob/master/what_we_found.md)**
+  - [Effective government education considers context, people, and format.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md) 
+  - [Educational topics that we heard are needed the most.](https://github.com/18F/18f-education-discovery/blob/master/topics.md) 
+  - Barriers and challenges to digital transformation. < _You are here!_
+  - [What makes education stick?](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md)
+- **[What would we like to do if we had three more months?](https://github.com/18F/18f-education-discovery/blob/master/three_months.md)**
+- **[Methodology supplement](https://github.com/18F/18f-education-discovery/blob/master/methodology.md)**
+

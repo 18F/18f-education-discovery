@@ -41,3 +41,18 @@ Based on what we heard, embedded coaches seem to be most effective when the coac
 ###Hiring people experienced with new methods improves the speed of implementation.
 
 Several of the participants we spoke with discussed the value of hiring people who already had experience with a particular method onto a team that had recently learned that method. In the examples we heard the person hired was a peer, who was able to set up tools and structures for the team to use, and also work with and guide the team, in a way very similar to the way that embedded coaches operate.
+
+* * *
+
+###### Navigating this document
+
+- **[Executive summary](https://github.com/18F/18f-education-discovery/blob/master/executive_summary.md)** 
+- **[Overview](https://github.com/18F/18f-education-discovery/blob/master/overview.md)**
+- **[What we found](https://github.com/18F/18f-education-discovery/blob/master/what_we_found.md)**
+  - [Effective government education considers context, people, and format.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md) 
+  - [Educational topics that we heard are needed the most.](https://github.com/18F/18f-education-discovery/blob/master/topics.md) 
+  - [Barriers and challenges to digital transformation.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md) 
+  - What makes education stick? < _You are here!_
+- **[What would we like to do if we had three more months?](https://github.com/18F/18f-education-discovery/blob/master/three_months.md)**
+- **[Methodology supplement](https://github.com/18F/18f-education-discovery/blob/master/methodology.md)**
+

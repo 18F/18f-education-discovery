@@ -54,3 +54,17 @@ _“Organizations are bad at prioritizing things and reducing workload. New thin
 ##Key areas where education can support ‘adjacent audiences.’
 
 There are some groups who are adjacent to the day to day product team work, but who are involved on a regular basis. Lawyers, contracting officers, and policy groups can either support agile processes or present roadblocks to their adoption. **There may be an opportunity to focus training on these adjacent audiences to help foster design thinking and other modern practices in other parts of the agency so they can better support these projects.** We know there is interest among contracting officers to specialize in digital procurement, is there also interest in digital specializations among other groups? 
+
+* * *
+
+###### Navigating this document
+
+- **[Executive summary](https://github.com/18F/18f-education-discovery/blob/master/executive_summary.md)** 
+- **[Overview](https://github.com/18F/18f-education-discovery/blob/master/overview.md)**
+- **[What we found](https://github.com/18F/18f-education-discovery/blob/master/what_we_found.md)**
+  - [Effective government education considers context, people, and format.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md) 
+  - Educational topics that we heard are needed the most. < _You are here!_
+  - [Barriers and challenges to digital transformation.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md)
+  - [What makes education stick?](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md)
+- **[What would we like to do if we had three more months?](https://github.com/18F/18f-education-discovery/blob/master/three_months.md)**
+- **[Methodology supplement](https://github.com/18F/18f-education-discovery/blob/master/methodology.md)**
