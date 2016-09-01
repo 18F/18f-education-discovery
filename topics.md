@@ -1,4 +1,4 @@
-# 18F Learn/Education Discovery — Educational topics that we heard are needed the most.
+# Educational topics that we heard are needed the most.
 
 ##Key areas where education can support product teams.
 
