@@ -1,4 +1,4 @@
-# Methodology 
+# Methodology supplement
 
 ##Process
 
@@ -72,3 +72,18 @@ To guide our research, we identified the following research goals and framing qu
 ###Is there demand for educational offerings from 18F? If so, how is that demand articulated? 
   - What kinds of language do government employees use to describe what they want out of education or training?
   - How do government employees see the role of 18F? 
+
+* * *
+
+###### Navigating this document
+
+- **[Executive summary](https://github.com/18F/18f-education-discovery/blob/master/executive_summary.md)** 
+- **[Overview](https://github.com/18F/18f-education-discovery/blob/master/overview.md)**
+- **[What we found](https://github.com/18F/18f-education-discovery/blob/master/what_we_found.md)**
+  - [Effective government education considers context, people, and format.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md) 
+  - [Educational topics that we heard are needed the most.](https://github.com/18F/18f-education-discovery/blob/master/topics.md) 
+  - [Barriers and challenges to digital transformation.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md) 
+  - [What makes education stick?](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md) 
+- **[What would we like to do if we had three more months?](https://github.com/18F/18f-education-discovery/blob/master/three_months.md)**
+- **Methodology supplement** < _You are here!_
+
