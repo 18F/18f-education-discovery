@@ -1,4 +1,4 @@
-# 18F Learn/Education Discovery – What we found
+# What we found
 
 Effective education is a critical component of digital transformation.
 
@@ -8,20 +8,36 @@ There is no shortage of education and training offerings inside the government, 
 
 **Note:** This is not a definitive list — more research is needed to to develop both this and a greater list of educational offerings.
 
-Effective government education considers context, people, and format.
-Most important qualities of effective education inside the government:
-Education needs to explicitly address common challenges faced while using new methods in government.
-Effective education bases coursework on actual projects.
-Education should involve not only the right people, but the right configuration of people.
-Tailor the content to where an agency is in the process of transformation.
-Other recommendations we heard:
-Effective courses engage people when they are motivated to learn.
-Showcase success stories from experts.
-Celebrate the successes of students and teams.
-Interactive coursework is more effective than a presentation format.
-Design an appropriate workload.
-Consider certification to create incentives for enrollment and smooth training approvals.
-Make content reusable and accessible.
+## Results table of contents
+
+### [Effective government education considers context, people, and format.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md#effective-government-education-considers-context-people-and-format)
+
+**[Most important qualities of effective education inside the government:](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md#most-important-qualities-of-effective-education-inside-the-government)**
+
+- [Education needs to explicitly address common challenges faced while using new methods in government.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md#education-needs-to-explicitly-address-common-challenges-faced-while-using-new-methods-in-government)
+
+- [Effective education bases coursework on actual projects.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md#effective-education-bases-coursework-on-actual-projects)
+
+- [Education should involve not only the right people, but the right configuration of people.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md#education-should-involve-not-only-the-right-people-but-the-right-configuration-of-people)
+
+- [Tailor the content to where an agency is in the process of transformation.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md#tailor-the-content-to-where-an-agency-is-in-the-process-of-transformation)
+
+**[Other recommendations we heard:](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md#other-recommendations-we-heard)**
+
+- [Effective courses engage people when they are motivated to learn.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md#effective-courses-engage-people-when-they-are-motivated-to-learn)
+
+- [Showcase success stories from experts.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md#showcase-success-stories-from-experts)
+
+- [Celebrate the successes of students and teams.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md#celebrate-the-successes-of-students-and-teams)
+
+- [Interactive coursework is more effective than a presentation format.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md#interactive-coursework-is-more-effective-than-a-presentation-format)
+
+- [Design an appropriate workload.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md#design-an-appropriate-workload)
+
+- [Consider certification to create incentives for enrollment and smooth training approvals.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md#consider-certification-to-create-incentives-for-enrollment-and-smooth-training-approvals)
+
+- [Make content reusable and accessible.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md#make-content-reusable-and-accessible)
+
 Educational topics that we heard are needed the most.
 Key areas where education can support product teams.
 Define the product owner role in order to empower product owners to make decisions.
