@@ -60,31 +60,31 @@ There is no shortage of education and training offerings inside the government, 
 
 **[Key areas where education can support ‘adjacent audiences.’](https://github.com/18F/18f-education-discovery/blob/master/topics.md#key-areas-where-education-can-support-adjacent-audiences)**
 
-### [Barriers and challenges to digital transformation.]()
+### [Barriers and challenges to digital transformation.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md#barriers-and-challenges-to-digital-transformation)
 
-**[Areas where education can help.]()**
+**[Areas where education can help.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md#areas-where-education-can-help)**
 
-- People newly assigned to product manager roles are reluctant to assume decision-making authority.
+- [People newly assigned to product manager roles are reluctant to assume decision-making authority.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md#people-newly-assigned-to-product-manager-roles-are-reluctant-to-assume-decision-making-authority)
 
-- Employees lack knowledge of best practices or only have a shallow understanding of them.
+- [Employees lack knowledge of best practices or only have a shallow understanding of them.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md#employees-lack-knowledge-of-best-practices-or-only-have-a-shallow-understanding-of-them)
 
-- Much of training and educational resources available to government employees contains bad or outdated information.
+- [Much of training and educational resources available to government employees contains bad or outdated information.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md#much-of-training-and-educational-resources-available-to-government-employees-contains-bad-or-outdated-information)
 
-**[Education may help with these problems, but there may be other approaches that work better.]()**
+**[Education may help with these problems, but there may be other approaches that work better.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md#education-may-help-with-these-problems-but-there-may-be-other-approaches-that-work-better)**
 
-- Leadership gives lip service to innovation without creating space for it.
+- [Leadership gives lip service to innovation without creating space for it.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md#leadership-gives-lip-service-to-innovation-without-creating-space-for-it)
 
-- The organizational culture resists change.
+- [The organizational culture resists change.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md#the-organizational-culture-resists-change)
 
-- Hiring experts can be difficult and time consuming.
+- [Hiring experts can be difficult and time consuming.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md#hiring-experts-can-be-difficult-and-time-consuming)
 
-- Organizational structure and operations can cause roadblocks for new methods.
+- [Organizational structure and operations can cause roadblocks for new methods.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md#organizational-structure-and-operations-can-cause-roadblocks-for-new-methods)
 
-- Laws and legal interpretations can block implementation of new methods.
+- [Laws and legal interpretations can block implementation of new methods.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md#laws-and-legal-interpretations-can-block-implementation-of-new-methods)
 
-- Teams are unable to use the tools they need.
+- [Teams are unable to use the tools they need.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md#teams-are-unable-to-use-the-tools-they-need)
 
-### What makes education stick
+### [What makes education stick]()
 Ongoing public support from leadership backs up efforts on the ground.
 The ability to start small.
 Collaborative environments help people get comfortable with new approaches.
