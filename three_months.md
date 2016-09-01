@@ -46,4 +46,18 @@ One of the things most consistently lacking in our conversations about education
 
 While these approaches are effective to a degree, **TTS Education would benefit from a more systematic approach to gathering feedback from participants in our education program as they progress through the process of digital transformation,** in order to ensure that the educational material and trainings we offer stays consistent with market needs.
 
+* * *
+
+###### Navigating this document
+
+- **[Executive summary](https://github.com/18F/18f-education-discovery/blob/master/executive_summary.md)** 
+- **[Overview](https://github.com/18F/18f-education-discovery/blob/master/overview.md)**
+- **[What we found](https://github.com/18F/18f-education-discovery/blob/master/what_we_found.md)**
+  - [Effective government education considers context, people, and format.](https://github.com/18F/18f-education-discovery/blob/master/context_people_format.md) 
+  - [Educational topics that we heard are needed the most.](https://github.com/18F/18f-education-discovery/blob/master/topics.md) 
+  - [Barriers and challenges to digital transformation.](https://github.com/18F/18f-education-discovery/blob/master/barriers_challenges.md) 
+  - [What makes education stick?](https://github.com/18F/18f-education-discovery/blob/master/education_sticks.md) 
+- **What would we like to do if we had three more months?** < _You are here!_
+- **[Methodology supplement](https://github.com/18F/18f-education-discovery/blob/master/methodology.md)**
+
 
