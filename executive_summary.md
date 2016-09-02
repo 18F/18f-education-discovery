@@ -18,7 +18,7 @@ Our interviewees identified four key characteristics of effective education –
 - **Tailor the content to where an agency is in the process of transformation.** Agencies at different points along the path of digital transformation have different educational needs — effective education accounts for this. 
 
 Additionally, we identified (or validated) several content areas where there seems to be great demand —
-- Programs for subject matter or policy experts who are newly assigned to serve as product managers for digital projects.
+- Programs for subject matter or policy experts who are newly assigned to serve as product owners or product managers for digital projects.
 - Courses that teach people how to advocate for their work to legal counsel, policy groups, leadership, and other groups. 
 - Programs that impart a deep understanding of the agile mindset, not just the practices. 
 - Programs that enable people to use design processes to create great services.
