@@ -36,6 +36,7 @@ You can learn more about our research in the [methodology supplement](https://gi
 
 ###### Navigating this document
 
+- **[Project Home](https://github.com/18F/18f-education-discovery/blob/master/README.md)**
 - **[Executive summary](https://github.com/18F/18f-education-discovery/blob/master/executive_summary.md)** 
 - **Overview** < _You are here!_
 - **[What we found](https://github.com/18F/18f-education-discovery/blob/master/what_we_found.md)**

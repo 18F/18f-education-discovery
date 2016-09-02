@@ -1,5 +1,9 @@
 # Executive Summary
 
+### TTS Education Discovery Research
+
+**_Opportunities and challenges for education as part of digital transformation_**
+
 Across government, employees are being asked to use technology to solve complex problems and deliver better services across a rapidly changing digital environment. Much of what this large-scale transition requires is a more agile and adaptable way of working. 
 
 Our research identified multiple ways effective education plays an essential role in digital transformation. We say ‘effective’ because most current training options fall short of enabling students to apply their learning on the job — there is a large, unmet need within government for training that actually works. 
@@ -37,6 +41,7 @@ We recommend that in the next several months, TTS Education should –
 
 ###### Navigating this document
 
+- **[Project Home](https://github.com/18F/18f-education-discovery/blob/master/README.md)**
 - **Executive summary** < _You are here!_
 - **[Overview](https://github.com/18F/18f-education-discovery/blob/master/overview.md)**
 - **[What we found](https://github.com/18F/18f-education-discovery/blob/master/what_we_found.md)**
