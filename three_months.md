@@ -2,7 +2,7 @@
 
 In its first four months, 18F Education, has developed customized trainings for a number of agency partners, which cover topics such as agile, Github, and how to better integrate emerging technologies and research into daily practices. Many of these themes, along with the work happening in DigitalGov University and DigitalGov.gov, align with the government-wide needs identified above. 
 
-Unfortunately, these customized trainings start off with a significant amount of assessment and tailoring of existing materials to fit the customer’s need, followed by a series of multi-week, in-person trainings. Staff limitations make it difficult to: 
+These customized trainings start off with a significant amount of assessment and tailoring of existing materials to fit the customer’s need, followed by a series of multi-week, in-person trainings. Unfortunately, staff limitations make it difficult to: 
 
 - fulfill the current demand for customized training received, 
 - proactively seek out new business opportunities, or 
