@@ -16,7 +16,7 @@ With the above constraints in mind, we — the research team — have some recom
 
 Our research discovered that the need for education around practices such as **agile development, product ownership, human centered design, and other digital practices** is so great we can probably start anywhere and feel pretty confident there will be a demand for it. Perhaps the better question is, which among these topics can TTS cover best? 
 
-**In areas where the need seems both obvious and great,** perhaps the best approach is to just step into the ring. 
+**In areas where the need seems both obvious and great,** the best approach is to just step into the ring. 
 
 **For areas where the demand is more speculative** (such as for trainings for adjacent audiences), we recommend TTS Education create incremental experiments to continuously validate and grow their educational offerings.
 
