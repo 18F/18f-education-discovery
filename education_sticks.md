@@ -38,7 +38,7 @@ Based on what we heard, embedded coaches seem to be most effective when the coac
 
 **TTS Education has an opportunity to develop a coaching practice to accompany its education practice, for agile development and other types of training.**
 
-###Hiring people experienced with new methods improves the speed of implementation.
+## Hiring people experienced with new methods improves the speed of implementation.
 
 Several of the participants we spoke with discussed the value of hiring people who already had experience with a particular method onto a team that had recently learned that method. In the examples we heard the person hired was a peer, who was able to set up tools and structures for the team to use, and also work with and guide the team, in a way very similar to the way that embedded coaches operate.
 
