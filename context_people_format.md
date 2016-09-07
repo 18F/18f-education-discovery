@@ -21,7 +21,7 @@ Possible topics include:
 - How to implement new development tools while supporting legacy systems, and 
 - How to transition from a waterfall process to an agile one inside an agency. 
 
-nother educator said that they often share supporting sections from authoritative documents like the FAR (Federal Acquisition Regulation), so that employees can use them as “air cover” for new ideas. As one innovator put it, “Documenting red tape enables innovation.”
+Another educator said that they often share supporting sections from authoritative documents like the FAR (Federal Acquisition Regulation), so that employees can use them as “air cover” for new ideas. As one innovator put it, “Documenting red tape enables innovation.”
 
 18F’s Method Cards were frequently cited as one of the few examples of guidance adapted to the specific needs of the federal government, and quite a few of our participants cited them both as valuable sources of information but also objects that they were able to share as a way of conferring value and legitimacy.
 
