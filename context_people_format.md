@@ -13,15 +13,17 @@ To expand on these areas, below are a list of formats and content that we heard 
 ### Education needs to explicitly address common challenges faced while using new methods in government.
 
 Many of the individuals we spoke with cited a lack of useful resources that address how modern digital practices can work in government. Much of the training that is available to government was originally purchased from the private sector, which one educator said gets you “about 70 percent” of the way there. But most training programs don’t go the extra mile to adapt those courses to the government context. 
+
 Possible topics include: 
 
 - How to deal with the Paperwork Reduction Act when introducing user research methods, 
+- The role of policy in supporting new approaches to product development,
 - How to implement new development tools while supporting legacy systems, and 
-- How to transition from a waterfall process to an agile one. 
+- How to transition from a waterfall process to an agile one inside an agency. 
 
-As one innovator put it, “Documenting red tape enables innovation.” Another educator said that they often share supporting sections from authoritative documents like the FAR (Federal Acquisition Regulation), so that employees can use them as “air cover” for new ideas.
+nother educator said that they often share supporting sections from authoritative documents like the FAR (Federal Acquisition Regulation), so that employees can use them as “air cover” for new ideas. As one innovator put it, “Documenting red tape enables innovation.”
 
-18F’s Method Cards were frequently cited as one of the few examples of guidance  adapted to the specific needs of the federal government, and quite a few of our participants cited them both as valuable sources of information but also objects that they were able to share as a way of conferring value and legitimacy.
+18F’s Method Cards were frequently cited as one of the few examples of guidance adapted to the specific needs of the federal government, and quite a few of our participants cited them both as valuable sources of information but also objects that they were able to share as a way of conferring value and legitimacy.
 
 **TTS Education has an opportunity here to develop standardized curriculums that can be used widely across the government, as well as associated leave-behind materials that can be used both to promote the methods we teach broadly, but also our educational offerings specifically.** There may also be the potential to sell this curriculum to other training programs within the government, though further exploration on that point is needed.
 
