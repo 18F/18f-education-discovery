@@ -65,7 +65,7 @@ In addition, the budget for each agency and group dictates how many new hires ar
 
 ### Organizational structure and operations can cause roadblocks for new methods. 
 
-Reporting requirements and budget cycles are often structured to fit a waterfall system as opposed to an agile one, which forces agile teams to shoehorn their process into that structure. In this scenario, education is unlikely to be the most effective intervention – policy changes may be more impactful.
+Reporting requirements and budget cycles are often structured to fit a waterfall system as opposed to an agile one, which forces agile teams to shoehorn their process into that structure. In this scenario, education is unlikely to be the most effective intervention – policy changes or other forms of culture change may be more impactful.
 
 > _“If project is a certain size, you have to report it to [agency]. But [agency] doesn’t have an agile reporting system. They have to report in a waterfall way with set deadlines and deliverables. So then you’re really working in agile-fall.”_
 
