@@ -36,6 +36,7 @@ _Opportunities and challenges for education as part of digital transformation_
 ### Process docs
 - [Research plan](https://github.com/18F/18f-education-discovery/wiki/Research-Plan)
 - [Conversation guides](https://github.com/18F/18f-education-discovery/blob/master/conversation-guide.md)
+- [Presentation slides – PDF](https://github.com/18F/18f-education-discovery/blob/master/18F-Education-discovery%20research-slides.pdf)
 
 ##Team members
 - Victor Udoewa – Product owner
